@@ -1,6 +1,6 @@
 {
   "name": "glibc-version",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0",
   "description": "Get the current glibc version programmatically and as a CLI",
   "main": "index.js",
   "scripts": {
